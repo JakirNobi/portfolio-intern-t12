@@ -2,7 +2,7 @@
 # 🌐 Zakirun's Portfolio
 
 This is my **personal portfolio website** for showcasing skills, projects, and contact details.
-It has been built using **HTML, CSS, and TailwindCSS** with a modern **purple and black theme**.
+It has been built using **HTML, CSS, and TailwindCSS** with a modern **purple black & gray theme**.
 
 ---
 
@@ -13,7 +13,7 @@ It has been built using **HTML, CSS, and TailwindCSS** with a modern **purple an
 * **Skills Section** – Displays technical skills with hover animations.
 * **Projects Section** – Showcases projects with background images and details.
 * **Contact Section** – Simple form to send a message.
-* **Minimal & Clean UI** – Purple and black theme with hover transitions.
+* **Minimal & Clean UI** – Purple black & gray theme with hover transitions.
 
 ---
 
